@@ -1,0 +1,57 @@
+# 🔐 Environment variables
+.env
+.env.*
+*.env
+
+# 🐍 Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# 📦 Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🧪 Testing / coverage
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# 🧾 Logs
+*.log
+
+# 📁 OS files
+.DS_Store
+Thumbs.db
+
+# 🧠 IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 📦 Build / distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 🔄 Streamlit cache
+.streamlit/
+
+# ⚙️ Uvicorn / FastAPI runtime artifacts
+*.pid
+
+# 📁 Temporary files
+tmp/
+temp/
+
+# 🧬 Jupyter
+.ipynb_checkpoints/
+
+# 🔑 Secrets / keys
+*.pem
+*.key
