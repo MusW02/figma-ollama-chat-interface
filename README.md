@@ -230,11 +230,3 @@ If you found this useful:
 Aspiring ML Engineer | AI & Data Science
 
 ---
-
-## 🚀 Push to GitHub
-
-```powershell
-git add README.md
-git commit -m "docs: add professional README for full-stack figma code generator"
-git push origin main
-```
